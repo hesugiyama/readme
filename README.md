@@ -11,7 +11,7 @@ test a new readme file
 ## Prerequisites
 Before moving on to configurations and usage, it is best to have your environment set up for building and testing React Native applications, so you can follow the guide from the link below:
 
-[React Native environment(Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+[React Native environment - (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
 ## Installation
 
