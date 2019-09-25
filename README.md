@@ -36,6 +36,8 @@ $ cd testeReadMe/
 
 # Install dependencies
 $ yarn install
+
+```
 ## Usage
 
 ```python
