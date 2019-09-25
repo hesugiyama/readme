@@ -8,9 +8,7 @@
 # Read me project 
 test a new readme file
 
-## :rocket: Technologies
-
-### MOBILE
+## Technologies
 -   [ReactJS](https://reactjs.org/)
 -   [React Native](https://facebook.github.io/react-native/)
 -   [Xcode](https://developer.apple.com/xcode/)
