@@ -25,7 +25,8 @@ Before moving on to configurations and usage, it is best to have your environmen
 
 ## Installation
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com) installed on your computer. Create a new folder to clone the project.From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com) installed on your computer. Create a new folder to clone the project. 
+From your command line:
 
 ```bash
 # Clone this repository
