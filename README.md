@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="http://pyx.network/wp-content/uploads/2016/02/uniprime.png">
+    <img src="https://www.dieboldnixdorf.com/dist/images/dn-color-logo.png">
   </a>
 </p>
 
