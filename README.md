@@ -24,7 +24,7 @@ test a new readme file
 -   [Yup](https://www.npmjs.com/package/yup)
 -   [date-fns](https://date-fns.org/)
 -   [Reactotron](https://infinite.red/reactotron)
--   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-   [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/) and [ESLint](https://eslint.org/)
 
 ## Prerequisites
 Before moving on to configurations and usage, it is best to have your environment set up for building and testing React Native applications, so you can follow the guide from the link below:
