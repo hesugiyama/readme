@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="http://www.itum.com.br/wp-content/uploads/2015/10/uniprime-250x165.png">
+    <img src="http://pyx.network/wp-content/uploads/2016/02/uniprime.png">
   </a>
 </p>
 
