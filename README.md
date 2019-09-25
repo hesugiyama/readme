@@ -25,12 +25,17 @@ Before moving on to configurations and usage, it is best to have your environmen
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.15][nodejs] or higher + [Yarn v1.5][yarn] or higher installed on your computer. Create a new folder to clone the project and From your command line:
 
 ```bash
-pip install foobar
-```
+# Clone this repository
+$ git clone https://github.com/
 
+# Go into the repository
+$ cd testeReadMe/
+
+# Install dependencies
+$ yarn install
 ## Usage
 
 ```python
