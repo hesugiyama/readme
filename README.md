@@ -43,9 +43,6 @@ $ yarn install
 
 You can run the following command.
 
-```
-ignite new appname --boilerplate native-base-boilerplate
-```
 Go to app location:
 ```sh
 cd testeReadme/
