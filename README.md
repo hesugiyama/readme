@@ -41,12 +41,23 @@ $ yarn install
 ```
 ## Usage
 
-```python
-import foobar
+You can run the following command.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+ignite new appname --boilerplate native-base-boilerplate
+```
+Go to app location:
+```sh
+cd testeReadme/
+```
+For iOS run:
+```sh
+react-native run-ios
+```
+For Android run:
+```sh
+react-native run-android
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
